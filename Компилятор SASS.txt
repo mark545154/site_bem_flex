@@ -1,0 +1,2 @@
+--watch assets/scss/screen.scss:assets/css/style.css --style compressed
+sass --watch assets/scss/screen.scss:assets/css/style.css --style compressed
